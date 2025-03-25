@@ -1,5 +1,5 @@
 ## 👋 Introduction
-I'm a 19-year-old programmer currently residing in Santo Domingo, Dominican Republic. Although I haven't pursued a formal degree, I have worked prominently in PUBG MOBILE, specifically in the Latin American community, providing support on the official Discord server and managing bots. I have also worked at **various hosting companies**, where I was responsible for maintaining machines and a bot that I created.
+I'm a 20-year-old programmer currently residing in Santo Domingo, Dominican Republic. Although I haven't pursued a formal degree, I have worked prominently in PUBG MOBILE, specifically in the Latin American community, providing support on the official Discord server and managing bots. I have also worked at **various hosting companies**, where I was responsible for maintaining machines and a bot that I created.
 
 - 😄 Pronouns: He/Him
 - 🔭 Currently, I mainly focus on **PUBG MOBILE and creating and polishing personal projects**.
